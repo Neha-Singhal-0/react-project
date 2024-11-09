@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+}
+
+.btn{
+  background-color: black;
+  color: aliceblue;
+  padding: 5px 20px;
+}
+.navbar{
+  height: 40px;
+  background-color: dodgerblue;
+}
+.navbar a{
+  color: white;
+  font-size:  22px;
+  margin-left: 15px;
+  line-height:  35px;
+  text-decoration: none;
+}
